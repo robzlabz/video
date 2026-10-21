@@ -1,0 +1,63 @@
+{
+  "template": "Kinetic",
+  "title": "Kebiasaan Kecil",
+  "cta": "Follow buat tips berikutnya!",
+  "palette": [
+    "#FF3D6E",
+    "#FFD23F",
+    "#2EC4B6",
+    "#3A86FF",
+    "#8338EC",
+    "#FB5607"
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Mau hidup lebih baik? Mulai dari yang kecil.",
+      "emphasis": [
+        "kecil"
+      ],
+      "kicker": "Kebiasaan kecil"
+    },
+    {
+      "id": "s1",
+      "text": "Satu halaman buku setiap hari.",
+      "emphasis": [
+        "satu",
+        "hari"
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Sepuluh menit jalan kaki sudah cukup.",
+      "emphasis": [
+        "sepuluh"
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Segelas air putih sebelum kopi.",
+      "emphasis": [
+        "air"
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Konsisten lebih penting daripada sempurna.",
+      "emphasis": [
+        "konsisten"
+      ]
+    },
+    {
+      "id": "concl",
+      "text": "Jadi, kecil tapi rutin, itu kuncinya. Follow buat tips berikutnya!",
+      "emphasis": [
+        "rutin",
+        "follow"
+      ]
+    }
+  ],
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz"
+}

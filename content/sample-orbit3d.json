@@ -1,0 +1,69 @@
+{
+  "template": "Orbit3D",
+  "title": "Tiga Wujud Air",
+  "cta": "Follow buat sains berikutnya!",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Air punya tiga wujud. Kamu tahu apa saja?",
+      "heading": "Tiga wujud air",
+      "shape": "sphere",
+      "color": "#38BDF8"
+    },
+    {
+      "id": "s1",
+      "text": "Pertama, es. Padat, dingin, dan bentuknya tetap.",
+      "heading": "Padat: es",
+      "shape": "box",
+      "color": "#A5F3FC",
+      "chips": [
+        "Dingin",
+        "Bentuk tetap"
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Kedua, air. Cair, mengalir, dan mengikuti wadahnya.",
+      "heading": "Cair: air",
+      "shape": "sphere",
+      "color": "#3B82F6",
+      "chips": [
+        "Mengalir",
+        "Ikut wadah"
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ketiga, uap. Gas yang ringan dan naik ke atas.",
+      "heading": "Gas: uap",
+      "shape": "torus",
+      "color": "#E9D5FF",
+      "chips": [
+        "Ringan",
+        "Naik ke atas"
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Panas mengubah es jadi air, lalu jadi uap.",
+      "heading": "Panas mengubah wujud",
+      "shape": "knot",
+      "color": "#FB923C",
+      "chips": [
+        "Es",
+        "Air",
+        "Uap"
+      ]
+    },
+    {
+      "id": "concl",
+      "text": "Jadi, satu zat, tiga wujud. Follow buat sains berikutnya!",
+      "heading": "Satu zat, tiga wujud",
+      "shape": "ico",
+      "color": "#F472B6"
+    }
+  ],
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz"
+}

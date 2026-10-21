@@ -1,0 +1,75 @@
+{
+  "template": "Versus",
+  "title": "Kopi vs Teh",
+  "cta": "Follow buat adu berikutnya!",
+  "sides": [
+    {
+      "name": "Kopi",
+      "icon": "coffee",
+      "color": "#7C4A2D"
+    },
+    {
+      "name": "Teh",
+      "icon": "leaf",
+      "color": "#2F855A"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Kopi atau teh, siapa yang lebih unggul?",
+      "kind": "intro",
+      "heading": "Kopi vs Teh"
+    },
+    {
+      "id": "r1",
+      "text": "Soal kafein, kopi jauh lebih kuat dari teh.",
+      "kind": "round",
+      "label": "Kafein",
+      "a": "Tinggi",
+      "b": "Sedang",
+      "winner": 0,
+      "syncWord": "kopi"
+    },
+    {
+      "id": "r2",
+      "text": "Soal antioksidan, teh lebih banyak dan lebih ringan di perut.",
+      "kind": "round",
+      "label": "Perut",
+      "a": "Bisa perih",
+      "b": "Lebih ringan",
+      "winner": 1,
+      "syncWord": "teh"
+    },
+    {
+      "id": "r3",
+      "text": "Soal rasa, ini selera masing-masing, jadi seri.",
+      "kind": "round",
+      "label": "Rasa",
+      "a": "Pahit nikmat",
+      "b": "Segar harum",
+      "winner": -1,
+      "syncWord": "seri"
+    },
+    {
+      "id": "r4",
+      "text": "Soal harga, teh biasanya lebih murah per cangkir.",
+      "kind": "round",
+      "label": "Harga",
+      "a": "Lebih mahal",
+      "b": "Lebih murah",
+      "winner": 1,
+      "syncWord": "teh"
+    },
+    {
+      "id": "concl",
+      "text": "Jadi, pilih kopi buat semangat, teh buat santai. Follow buat adu berikutnya!",
+      "kind": "verdict",
+      "heading": "Semangat atau santai?",
+      "sub": "Follow buat adu berikutnya!"
+    }
+  ],
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz"
+}

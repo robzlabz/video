@@ -1,0 +1,61 @@
+{
+  "template": "Flow",
+  "title": "Cara Kerja Email",
+  "cta": "Follow buat penjelasan berikutnya!",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Apa yang terjadi setelah kamu menekan tombol kirim email?",
+      "title": "Perjalanan sebuah email",
+      "icon": "mail"
+    },
+    {
+      "id": "a",
+      "text": "Pertama, kamu menulis pesan lalu menekan kirim.",
+      "step": true,
+      "title": "Tulis dan kirim",
+      "desc": "Aplikasi email membungkus pesanmu",
+      "icon": "user"
+    },
+    {
+      "id": "b",
+      "text": "Kedua, server pengirim membaca alamat tujuan.",
+      "step": true,
+      "title": "Server pengirim",
+      "desc": "Membaca alamat setelah tanda @",
+      "icon": "server"
+    },
+    {
+      "id": "c",
+      "text": "Ketiga, pesan dikirim lewat internet ke server penerima.",
+      "step": true,
+      "title": "Lewat internet",
+      "desc": "Menyeberang dari server ke server",
+      "icon": "globe"
+    },
+    {
+      "id": "d",
+      "text": "Keempat, server penerima menyimpannya di kotak masuk.",
+      "step": true,
+      "title": "Kotak masuk",
+      "desc": "Disimpan sampai dibuka",
+      "icon": "mail"
+    },
+    {
+      "id": "e",
+      "text": "Terakhir, penerima membuka dan membaca pesanmu.",
+      "step": true,
+      "title": "Dibaca",
+      "desc": "Selesai dalam hitungan detik",
+      "icon": "check"
+    },
+    {
+      "id": "concl",
+      "text": "Jadi, email itu estafet antar server. Follow buat penjelasan berikutnya!",
+      "title": "Email = estafet antar server"
+    }
+  ],
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz"
+}

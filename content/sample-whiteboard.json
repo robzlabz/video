@@ -1,0 +1,78 @@
+{
+  "template": "Whiteboard",
+  "title": "Apa itu cloud?",
+  "cta": "Follow buat penjelasan berikutnya!",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Pernah dengar kata cloud, tapi bingung artinya?",
+      "heading": "Apa itu cloud?",
+      "icon": "cloud"
+    },
+    {
+      "id": "s1",
+      "text": "Cloud itu bukan awan sungguhan. Itu komputer besar milik perusahaan.",
+      "heading": "Bukan awan beneran",
+      "icon": "server",
+      "notes": [
+        "Komputer raksasa",
+        "Ada di gedung khusus"
+      ],
+      "noteWords": [
+        "komputer",
+        "perusahaan"
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Foto dan file kamu disimpan di sana, bukan di HP.",
+      "heading": "Simpan di sana",
+      "icon": "phone",
+      "notes": [
+        "Foto dan file",
+        "Hemat memori HP"
+      ],
+      "noteWords": [
+        "foto",
+        "bukan"
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Selama ada internet, kamu bisa membukanya dari mana saja.",
+      "heading": "Akses di mana saja",
+      "icon": "wifi",
+      "notes": [
+        "Butuh internet",
+        "Bisa dari HP atau laptop"
+      ],
+      "noteWords": [
+        "internet",
+        "hp"
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Datanya juga dijaga dengan kunci dan cadangan.",
+      "heading": "Aman dan ada cadangan",
+      "icon": "lock",
+      "notes": [
+        "Dikunci kata sandi",
+        "Disalin ke banyak tempat"
+      ],
+      "noteWords": [
+        "kunci",
+        "cadangan"
+      ]
+    },
+    {
+      "id": "concl",
+      "text": "Jadi, cloud itu tempat simpan online. Follow buat penjelasan berikutnya!",
+      "heading": "Cloud = tempat simpan online",
+      "icon": "bulb"
+    }
+  ],
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz"
+}

@@ -1,0 +1,95 @@
+{
+  "template": "Infographic",
+  "title": "Fakta Tidur",
+  "cta": "Follow buat fakta berikutnya!",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Berapa jam tidur yang sebenarnya cukup?",
+      "kind": "intro",
+      "heading": "Fakta Tidur",
+      "sub": "Cukup tidur itu penting",
+      "icon": "moon"
+    },
+    {
+      "id": "bar",
+      "text": "Orang dewasa butuh tujuh sampai sembilan jam, remaja delapan sampai sepuluh jam.",
+      "kind": "bar",
+      "heading": "Kebutuhan tidur per hari",
+      "unit": " jam",
+      "max": 10,
+      "syncWord": "orang",
+      "data": [
+        {
+          "label": "Anak-anak",
+          "value": 10
+        },
+        {
+          "label": "Remaja",
+          "value": 9
+        },
+        {
+          "label": "Dewasa",
+          "value": 8
+        },
+        {
+          "label": "Lansia",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "id": "donut",
+      "text": "Sekitar sepertiga orang dewasa tidur kurang dari tujuh jam.",
+      "kind": "donut",
+      "heading": "Kurang tidur",
+      "value": 33,
+      "label": "orang dewasa tidur kurang dari 7 jam",
+      "color": "#F472B6",
+      "syncWord": "sekitar"
+    },
+    {
+      "id": "stat",
+      "text": "Otak kita membersihkan diri saat tidur, sampai sembilan puluh persen lebih aktif.",
+      "kind": "stat",
+      "heading": "Otak bersih-bersih",
+      "value": 90,
+      "suffix": "%",
+      "label": "lebih aktif membuang sisa metabolisme",
+      "syncWord": "otak"
+    },
+    {
+      "id": "line",
+      "text": "Rata-rata, tidur nyenyak naik pelan kalau kita tidur teratur setiap minggu.",
+      "kind": "line",
+      "heading": "Tidur teratur, tidur nyenyak",
+      "points": [
+        5.5,
+        6.2,
+        6.8,
+        7.4,
+        7.9
+      ],
+      "labels": [
+        "M1",
+        "M2",
+        "M3",
+        "M4",
+        "M5"
+      ],
+      "unit": "j",
+      "syncWord": "tidur"
+    },
+    {
+      "id": "concl",
+      "text": "Jadi, tidur cukup itu kebutuhan, bukan kemewahan. Follow buat fakta berikutnya!",
+      "kind": "outro",
+      "heading": "Tidur cukup = kebutuhan",
+      "sub": "Mulai malam ini",
+      "icon": "heart"
+    }
+  ],
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "video-templates",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "audio": "python3 scripts/build_audio.py",
+    "stills": "scripts/stills.sh"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.18.0",
+    "@remotion/cli": "^4.0.537",
+    "@remotion/google-fonts": "^4.0.537",
+    "@remotion/three": "^4.0.537",
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.537",
+    "three": "^0.186.1",
+    "typescript": "^7.0.2"
+  }
+}

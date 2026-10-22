@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(/root/.omp/agent/models.yml)",
+      "Edit(/root/.omp/agent/models.yml)"
+    ]
+  }
+}
